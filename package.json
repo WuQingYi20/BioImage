@@ -1,0 +1,11 @@
+{
+  "name": "bioimage",
+  "version": "1.0.0",
+  "description": "start point",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
